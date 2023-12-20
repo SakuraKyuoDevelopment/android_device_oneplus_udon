@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_udon.mk
+    $(LOCAL_DIR)/evolution_udon.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_udon-user \
-    lineage_udon-userdebug \
-    lineage_udon-eng
+    evolution_udon-user \
+    evolution_udon-userdebug \
+    evolution_udon-eng
